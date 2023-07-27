@@ -3,6 +3,10 @@ Rock, paper, scissors game!
 
 This belongs to The Odin Project course that I'm doing at the time of push.
 
+# LIVE PREVIEW
+
+You can see a [live preview](https://kagunecode.github.io/rpsgame/). Let me know if you have any problems with it.
+
 # UPDATES
 
 July 25: I finished styling the page and adding some features. As of now the game won't end when the score is 5, instead it will continue forever.
